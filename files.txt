@@ -1,0 +1,30 @@
+ 21. if you run that the new file will not included in the commit because the git add command allow you to add the file in the staging area which is the area for sellecting 
+      which file to be included for the next commit 
+
+22.if you run three files an[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dmodify three files and you run the command git add . this will stage all three files for the next commit
+
+23.if you the command git add . and then followed by git commit [D -m "msg" the project wont updated to the github automatically untill you run the command 
+     git push
+
+24. if you run the command say git push but git tells you that your local brunch is behind the remote brunch you need first 
+      git push to have access of the remote before continue
+
+25. to have the changes made by your team you have to run git pull command bfr continuing to the another steps
+
+26. here is the complete purpose of this scenerio
+     git status
+     git add .
+     git commit -m ""[Dupdate the website"
+     git push
+
+  first git status to show the state of the working directory
+   git add . to stage all files in your project eg index.html,style.css
+  git commit to save the snapshot/version of the staged changes
+  git push is to upload the changes to the github
+
+27.git push and git pull 
+
+28. this means that you didnt commit your changes and working tree is clean means no any errors in the working brunch
+
+
+29
